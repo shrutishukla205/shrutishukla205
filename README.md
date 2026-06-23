@@ -7,7 +7,10 @@ certifications, and AI skill development.
 # Anthropic Claude Learning Journey  
 
 ## Course Completed
-✅ Claude 101
+
+ Claude 101
+ claude code 101
+
 
 # 📊 Learning Progress
 
@@ -16,7 +19,7 @@ This live tracker shows my real-time progress through the entire Anthropic Acade
 | # | Course Name | Category | Status |
 | :--- | :--- | :--- | :--- |
 | 1 | **Claude 101** | Foundations | ✅ Completed |
-| 2 | **Claude Code 101** | Developer Tools | 🔄 In Progress |
+| 2 | **Claude Code 101** | Developer Tools | ✅ Completed |
 | 3 | **Cloud Platform 101** | Cloud Architecture | ⏳ Upcoming |
 | 4 | **Introduction to Claude Cowork** | Developer Tools | ⏳ Upcoming |
 | 5 | **Claude Code in Action** | Developer Tools | ⏳ Upcoming |
