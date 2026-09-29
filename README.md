@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hey! I'm Shruti Shukla 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00F2FE&height=180&section=header&text=SHRUTI%20SHUKLA&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=40"/>
 
-### AI/ML & Backend Development Enthusiast 🤖⚡
+# 👋 Hey! I'm Shruti Shukla
 
-**Python • Machine Learning • Backend Development**
+### 🤖 AI/ML & Backend Development Enthusiast ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=160&section=header"/>
+**🐍 Python &nbsp; • &nbsp; 🧠 Machine Learning &nbsp; • &nbsp; ⚙️ Backend Development**
 
 </div>
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-## 🧠 AI / ML
+## 🌈 AI / ML
 
-**Machine Learning • Deep Learning • NLP • GenAI**
+### 🧠 Machine Learning &nbsp; • &nbsp; 🔥 Deep Learning &nbsp; • &nbsp; 💬 NLP &nbsp; • &nbsp; ✨ GenAI
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
 
@@ -26,9 +26,9 @@
 
 <div align="center">
 
-## ⚙️ Backend Development
+## ⚡ Backend Development
 
-**FastAPI • REST APIs • API Integration • Streamlit**
+### 🚀 FastAPI &nbsp; • &nbsp; 🔗 REST APIs &nbsp; • &nbsp; 🔌 API Integration &nbsp; • &nbsp; 🎨 Streamlit
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git" />
 
@@ -40,7 +40,7 @@
 
 ## 🔭 Exploring
 
-**AI/ML Concepts • Backend Development • LLMs • RAG • AI Agents**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F2FE&center=true&vCenter=true&width=700&lines=AI%2FML+Concepts;Backend+Development;Large+Language+Models;Retrieval+Augmented+Generation;AI+Agents;MLOps" />
 
 </div>
 
@@ -58,11 +58,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=80&text=AI%20%7C%20ML%20%7C%20BACKEND&fontColor=ffffff&fontSize=24&fontAlignY=55&animation=twinkling"/>
+## 📬 Connect
 
-<br>
+<a href="mailto:shrutishukla207@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🤖 Building with AI. Engineering with Python. 🚀
+<a href="https://github.com/shrutishukla205">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -70,6 +74,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,50:DD2476,100:7F00FF&height=90&text=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&fontSize=25&fontColor=FFFFFF&animation=twinkling&radius=20"/>
+
+<br><br>
+
+### 💜 Building with AI. ⚡ Engineering with Python.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:2575FC,100:6A11CB&height=140&section=footer"/>
 
 </div>
