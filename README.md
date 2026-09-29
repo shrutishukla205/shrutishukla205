@@ -61,7 +61,7 @@
 ## 📬 Connect
 
 <a href="mailto:shrutishukla207@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/shrutishukla205">
@@ -75,10 +75,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,50:2575FC,100:00F2FE&height=80&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&fontSize=22&fontColor=FFFFFF&animation=twinkling&radius=20"/>
-
-<br><br>
-
-### 💜 Building with AI. ⚡ Engineering with Python.
 
 </div>
 
