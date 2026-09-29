@@ -58,28 +58,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shrutishukla205&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishukla205&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shrutishukla205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🤖 Building with AI. Engineering with Python. 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F2FE&height=100&section=footer"/>
