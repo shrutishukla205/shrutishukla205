@@ -105,21 +105,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="700">
-
-<br>
-
-# 💫 Thanks for visiting my little corner of GitHub!
-
-### **Keep coding • Keep learning • Keep building** 🚀💜
-
-<br>
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,35:2575FC,70:00C6FF,100:00F2FE&height=180&section=header&text=%F0%9F%92%AB%20Thanks%20for%20visiting!&fontSize=30&fontColor=FFFFFF&fontAlignY=42&desc=Keep%20coding%20%E2%80%A2%20Keep%20learning%20%E2%80%A2%20Keep%20building%20%F0%9F%9A%80%F0%9F%92%9C&descSize=17&descAlignY=68&animation=twinkling"/>
 
 </div>
 
