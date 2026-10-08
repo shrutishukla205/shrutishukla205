@@ -22,28 +22,35 @@
 
 <br>
 
+<img src="https://img.shields.io/badge/Machine%20Learning-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-00C6FF?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GenAI-FF4B8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-6A11CB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-2575FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SHAP-6A1B9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-2575FC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-00A8E8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-6A11CB?style=for-the-badge"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -67,8 +74,6 @@
 
 <br><br>
 
-**Machine Learning • Deep Learning • GenAI • NLP • RAG • LLMs • AI Agents • Agentic AI**
-
 </div>
 
 ---
@@ -79,7 +84,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Hackathons-6A11CB?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hackathons-6A11CB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-2575FC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Teamwork-00A8E8?style=for-the-badge"/>
 
