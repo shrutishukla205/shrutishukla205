@@ -105,13 +105,21 @@
 
 <div align="center">
 
-### 💫 Thanks for visiting my little corner of GitHub!
-
-**Keep coding • Keep learning • Keep building** 🚀💜
+<table>
+<tr>
+<td align="center" width="700">
 
 <br>
 
-<img src="https://media.giphy.com/media/100QWMdxQJzQC4/giphy.gif" width="160"/>
+# 💫 Thanks for visiting my little corner of GitHub!
+
+### **Keep coding • Keep learning • Keep building** 🚀💜
+
+<br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
