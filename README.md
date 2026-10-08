@@ -4,7 +4,20 @@
 
 # 👋 Hey, I'm Shruti Shukla
 
+<table align="center">
+<tr>
+<td valign="middle">
+
 ### 🤖 AI/ML & Agentic AI Development Enthusiast
+
+</td>
+<td valign="middle">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -31,7 +44,6 @@
 <img src="https://img.shields.io/badge/GenAI-FF4B8B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-6A11CB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Agents-2575FC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 <br><br>
@@ -93,7 +105,7 @@
 
 <div align="center">
 
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <br>
 
@@ -105,21 +117,25 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_KAGGLE_LINK">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
 <a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_KAGGLE_LINK">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="YOUR_HUGGINGFACE_LINK">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
+<a href="YOUR_DISCORD_LINK">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 </div>
 
-<br><br>
+---
 
 <div align="center">
 
