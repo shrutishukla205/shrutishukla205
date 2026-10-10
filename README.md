@@ -3,13 +3,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,45:2575FC,75:00C6FF,100:00F2FE&height=190&section=header&animation=twinkling"/>
 
-# 👋 Hey, I'm Shruti Shukla
+# Hey there!👋 I'm Shruti Shukla
 
 <table align="center">
 <tr>
 <td valign="middle">
 
-### 🤖 AI/ML & Agentic AI Development Enthusiast
+### 🤖 AI/ML & Agentic AI Developer Enthusiast
 
 </td>
 <td valign="middle">
