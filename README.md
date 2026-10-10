@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,45:2575FC,75:00C6FF,100:00F2FE&height=190&section=header&animation=twinkling"/>
@@ -76,6 +77,7 @@
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -152,3 +154,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,40:2575FC,70:6A11CB,100:FFFFFF&height=120&section=footer&animation=twinkling"/>
 
 </div>
+```
