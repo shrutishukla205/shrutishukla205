@@ -6,10 +6,7 @@
 # Hey there!👋 I'm Shruti Shukla
 
 <table align="center">
-<tr>
-<td valign="middle">
 
-### 🤖 AI/ML & Agentic AI Developer Enthusiast
 
 </td>
 <td valign="middle">
